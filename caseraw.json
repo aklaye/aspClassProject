@@ -12,7 +12,7 @@
 	{
 		"Brand": "Grass",
 		"ProductName": "Ivysaur",
-		"GraphicName":".png",
+		"GraphicName":"ivysaur.png",
 		"CostPrice": "200",
 		"MSRP": "190",
 		"QtyOnHand": "0",
