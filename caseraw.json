@@ -1,6 +1,5 @@
 [
 	{
-		"ID": "ID001",
 		"Brand": "Grass",
 		"ProductName": "Bulbasaur",
 		"GraphicName":"bulbasaur.png",
@@ -11,7 +10,6 @@
 		"Description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
 	},
 	{
-		"ID": "ID002",
 		"Brand": "Grass",
 		"ProductName": "Ivysaur",
 		"GraphicName":".png",
@@ -22,7 +20,6 @@
 		"Description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
 	},
 	{
-		"ID": "ID003",
 		"Brand": "Grass",
 		"ProductName": "",
 		"GraphicName":"venusaur.png",
@@ -44,7 +41,6 @@
 		"Description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
 	},
 	{
-		"ID": "ID005",
 		"Brand": "Fire",
 		"ProductName": "Charmeleon",
 		"GraphicName":"charmeleon.png",
@@ -55,7 +51,6 @@
 		"Description": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
 	}	,
 	{
-		"ID": "ID006",
 		"Brand": "Fire",
 		"ProductName": "Charizard",
 		"GraphicName":"charizard.png",
@@ -77,7 +72,6 @@
 		"Description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
 	},
 	{
-		"ID": "ID008",
 		"Brand": "Water",
 		"ProductName": "Wartortle",
 		"GraphicName":"wartortle.png",
@@ -87,81 +81,157 @@
 		"QtyOnBackOrder": "1",
 		"Description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
 		},
-		{
-			"ID": "ID009",
-			"Brand": "Water",
-			"ProductName": "Blastoise",
-			"GraphicName":"blastoise.png",
-			"CostPrice": "3000",
-			"MSRP": "2500",
-			"QtyOnHand": "0",
-			"QtyOnBackOrder": "50",
-			"Description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles."
-		},
-		{
-			"ID": "ID010",
-			"Brand": "Fire",
-			"ProductName": "Vulpix",
-			"GraphicName":"vulpix.png",
-			"CostPrice": "200",
-			"MSRP": "150",
-			"QtyOnHand": "10",
-			"QtyOnBackOrder": "0",
-			"Description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
-		},
-		{
-			"ID": "ID011",
-			"Brand": "Fire",
-			"ProductName": "Ninetails",
-			"GraphicName":"ninetails.png",
-			"CostPrice": "300",
-			"MSRP": "300",
-			"QtyOnHand": "2",
-			"QtyOnBackOrder": "0",
-			"Description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
-		},
-		{
-			"ID": "ID012",
-			"Brand": "Grass",
-			"ProductName": "Exeggcute",
-			"GraphicName":"exeggcute.png",
-			"CostPrice": "55",
-			"MSRP": "50",
-			"QtyOnHand": "2",
-			"QtyOnBackOrder": "0",
-			"Description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
-		},
-		{
-			"ID": "ID013",
-			"Brand": "Grass",
-			"ProductName": "Exeggutor",
-			"GraphicName":"exeggutor.png",
-			"CostPrice": "1000",
-			"MSRP": "1000",
-			"QtyOnHand": "0",
-			"QtyOnBackOrder": "2",
-			"Description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute."
-		},
-		{
-			"ID": "ID014",
-			"Brand": "Water",
-			"ProductName": "Magikarp",
-			"GraphicName":"magikarp.png",
-			"CostPrice": "10",
-			"MSRP": "10",
-			"QtyOnHand": "100",
-			"QtyOnBackOrder": "0",
-			"Description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
-		},
-		{
-			"ID": "ID015",
-			"Brand": "Water",
-			"ProductName": "Gyarados",
-			"GraphicName":"gyarados.png",
-			"CostPrice": "1500",
-			"MSRP": "1200",
-			"QtyOnHand": "1",
-			"QtyOnBackOrder": "50",
-			"Description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
-		}
+	[
+	{
+		"Brand": "Grass",
+		"ProductName": "Bulbasaur",
+		"GraphicName":"bulbasaur.png",
+		"CostPrice": "0",
+		"MSRP": "0",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "0",
+		"Description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
+	},
+	{
+		"Brand": "Grass",
+		"ProductName": "Ivysaur",
+		"GraphicName":".png",
+		"CostPrice": "200",
+		"MSRP": "190",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "0",
+		"Description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+	},
+	{
+		"Brand": "Grass",
+		"ProductName": "",
+		"GraphicName":"venusaur.png",
+		"CostPrice": "2000",
+		"MSRP": "1900",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "10",
+		"Description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+	},
+	{
+		"Brand": "Fire",
+		"ProductName": "Charmander",
+		"GraphicName":"charmander.png",
+		"CostPrice": "0",
+		"MSRP": "0",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "0",
+		"Description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
+	},
+	{
+		"Brand": "Fire",
+		"ProductName": "Charmeleon",
+		"GraphicName":"charmeleon.png",
+		"CostPrice": "200",
+		"MSRP": "200",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "2",
+		"Description": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
+	}	,
+	{
+		"Brand": "Fire",
+		"ProductName": "Charizard",
+		"GraphicName":"charizard.png",
+		"CostPrice": "2100",
+		"MSRP": "2000",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "2",
+		"Description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+	},
+	{
+		"Brand": "Water",
+		"ProductName": "Squirtle",
+		"GraphicName":"squirtle.png",
+		"CostPrice": "0",
+		"MSRP": "0",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "0",
+		"Description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
+	},
+	{
+		"Brand": "Water",
+		"ProductName": "Wartortle",
+		"GraphicName":"wartortle.png",
+		"CostPrice": "190",
+		"MSRP": "100",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "1",
+		"Description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
+	},
+	{
+		"Brand": "Water",
+		"ProductName": "Blastoise",
+		"GraphicName":"blastoise.png",
+		"CostPrice": "3000",
+		"MSRP": "2500",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "50",
+		"Description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles."
+	},
+	{
+		"Brand": "Fire",
+		"ProductName": "Vulpix",
+		"GraphicName":"vulpix.png",
+		"CostPrice": "200",
+		"MSRP": "150",
+		"QtyOnHand": "10",
+		"QtyOnBackOrder": "0",
+		"Description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
+	},
+	{
+		"Brand": "Fire",
+		"ProductName": "Ninetails",
+		"GraphicName":"ninetails.png",
+		"CostPrice": "300",
+		"MSRP": "300",
+		"QtyOnHand": "2",
+		"QtyOnBackOrder": "0",
+		"Description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
+	},
+	{
+		"Brand": "Grass",
+		"ProductName": "Exeggcute",
+		"GraphicName":"exeggcute.png",
+		"CostPrice": "55",
+		"MSRP": "50",
+		"QtyOnHand": "2",
+		"QtyOnBackOrder": "0",
+		"Description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+	},
+	{
+		"Brand": "Grass",
+		"ProductName": "Exeggutor",
+		"GraphicName":"exeggutor.png",
+		"CostPrice": "1000",
+		"MSRP": "1000",
+		"QtyOnHand": "0",
+		"QtyOnBackOrder": "2",
+		"Description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute."
+	},
+	{
+		"Brand": "Water",
+		"ProductName": "Magikarp",
+		"GraphicName":"magikarp.png",
+		"CostPrice": "10",
+		"MSRP": "10",
+		"QtyOnHand": "100",
+		"QtyOnBackOrder": "0",
+		"Description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+	},
+	{
+		"Brand": "Water",
+		"ProductName": "Gyarados",
+		"GraphicName":"gyarados.png",
+		"CostPrice": "1500",
+		"MSRP": "1200",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "50",
+		"Description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+	}
+]
+
 ]
