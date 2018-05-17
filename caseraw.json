@@ -30,89 +30,6 @@
 		"Description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
 	},
 	{
-		"ID": "ID004",
-		"Brand": "Fire",
-		"ProductName": "Charmander",
-		"GraphicName":"charmander.png",
-		"CostPrice": "0",
-		"MSRP": "0",
-		"QtyOnHand": "1",
-		"QtyOnBackOrder": "0",
-		"Description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
-	},
-	{
-		"Brand": "Fire",
-		"ProductName": "Charmeleon",
-		"GraphicName":"charmeleon.png",
-		"CostPrice": "200",
-		"MSRP": "200",
-		"QtyOnHand": "0",
-		"QtyOnBackOrder": "2",
-		"Description": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
-	}	,
-	{
-		"Brand": "Fire",
-		"ProductName": "Charizard",
-		"GraphicName":"charizard.png",
-		"CostPrice": "2100",
-		"MSRP": "2000",
-		"QtyOnHand": "0",
-		"QtyOnBackOrder": "2",
-		"Description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
-	},
-	{
-		"ID": "ID007",
-		"Brand": "Water",
-		"ProductName": "Squirtle",
-		"GraphicName":"squirtle.png",
-		"CostPrice": "0",
-		"MSRP": "0",
-		"QtyOnHand": "1",
-		"QtyOnBackOrder": "0",
-		"Description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
-	},
-	{
-		"Brand": "Water",
-		"ProductName": "Wartortle",
-		"GraphicName":"wartortle.png",
-		"CostPrice": "190",
-		"MSRP": "100",
-		"QtyOnHand": "0",
-		"QtyOnBackOrder": "1",
-		"Description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
-		},
-	[
-	{
-		"Brand": "Grass",
-		"ProductName": "Bulbasaur",
-		"GraphicName":"bulbasaur.png",
-		"CostPrice": "0",
-		"MSRP": "0",
-		"QtyOnHand": "1",
-		"QtyOnBackOrder": "0",
-		"Description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
-	},
-	{
-		"Brand": "Grass",
-		"ProductName": "Ivysaur",
-		"GraphicName":".png",
-		"CostPrice": "200",
-		"MSRP": "190",
-		"QtyOnHand": "0",
-		"QtyOnBackOrder": "0",
-		"Description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
-	},
-	{
-		"Brand": "Grass",
-		"ProductName": "",
-		"GraphicName":"venusaur.png",
-		"CostPrice": "2000",
-		"MSRP": "1900",
-		"QtyOnHand": "0",
-		"QtyOnBackOrder": "10",
-		"Description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
-	},
-	{
 		"Brand": "Fire",
 		"ProductName": "Charmander",
 		"GraphicName":"charmander.png",
@@ -232,6 +149,4 @@
 		"QtyOnBackOrder": "50",
 		"Description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
 	}
-]
-
 ]
